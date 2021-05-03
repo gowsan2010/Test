@@ -1,0 +1,18 @@
+#font{
+    font-family: 'Coda Caption', sans-serif;
+    text-align: center;
+}
+#body{
+    font-family: 'Original Surfer', cursive;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+html{
+    background-color: rgb(235, 120, 187);
+}
+#chair{
+    height: 100px;
+    width: 100px;
+}
